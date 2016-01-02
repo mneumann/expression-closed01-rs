@@ -11,4 +11,4 @@ keywords = ["expression", "term", "numeric"]
 [dependencies]
 asexp = "0.1.0"
 expression = "0.3.0"
-closed01 = "0.1.0"
+closed01 = "0.3.0"
