@@ -1,10 +1,10 @@
 [package]
 name = "expression-closed01"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Michael Neumann <mneumann@ntecs.de>"]
 
 license = "MIT"
-repository = "https://github.com/mneumann/expression-closed-rs"
+repository = "https://github.com/mneumann/expression-closed01-rs"
 description = "Expression terms in the closed [0,1] interval"
 keywords = ["expression", "term", "numeric"]
 
