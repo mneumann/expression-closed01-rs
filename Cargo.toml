@@ -1,6 +1,6 @@
 [package]
 name = "expression-closed01"
-version = "0.2.0"
+version = "0.2.1"
 authors = ["Michael Neumann <mneumann@ntecs.de>"]
 
 license = "MIT"
@@ -9,6 +9,6 @@ description = "Expression terms in the closed [0,1] interval"
 keywords = ["expression", "term", "numeric"]
 
 [dependencies]
-asexp = "0.1.0"
+asexp = "0.2.0"
 expression = "0.3.0"
 closed01 = "0.3.0"
